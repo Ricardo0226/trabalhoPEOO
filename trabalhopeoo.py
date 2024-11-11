@@ -1,3 +1,5 @@
+#Luiz Fernando
+#Ricardo Fernandes
 class Planeta:
     def __init__(self, nome_planeta, gravidade_planeta):
         self.nome_planeta = nome_planeta
